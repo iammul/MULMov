@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196634835337",
+    "firebase_url": "https://mulproject-f4c4a.firebaseio.com",
+    "project_id": "mulproject-f4c4a",
+    "storage_bucket": "mulproject-f4c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196634835337:android:2a1527e6687f520e978958",
+        "android_client_info": {
+          "package_name": "com.mulkun.mulmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196634835337-ka7g2m10nlqhol9agbmj9lh39jlishpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0SK1EiYP9_St4FO5ZyIOrSJKG20pQp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196634835337-ka7g2m10nlqhol9agbmj9lh39jlishpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
