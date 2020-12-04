@@ -12,6 +12,9 @@ import com.mulkun.mulmov.utils.Preferences
 import kotlinx.android.synthetic.main.activity_sign_in.*
 
 
+// Ini adalah SignInActivity
+
+
 class SignInActivity : AppCompatActivity() {
 
     lateinit var iUsername:String
